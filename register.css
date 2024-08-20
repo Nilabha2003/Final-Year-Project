@@ -1,0 +1,29 @@
+#form{
+    margin-top: 170px;
+    margin-bottom: 5PX;
+    margin-left: 800px;
+    margin-right: 50px;
+}
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link{
+margin-left: 770px;
+}
+#google:hover{
+    color: white;
+    cursor: pointer;
+}
+#facebook:hover{
+    color: white;
+    cursor: pointer;
+}
+#linkedin:hover{
+    color: white;
+    cursor: pointer;
+}
+#or{
+margin-left: 800px;
+}
